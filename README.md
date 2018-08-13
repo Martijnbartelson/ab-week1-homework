@@ -1,4 +1,4 @@
-#Codaisseur homework assignment
+# Codaisseur homework assignment
 
 During the weekend we had to build a pizza explorer
 
@@ -6,13 +6,13 @@ During the weekend we had to build a pizza explorer
 
 Live version: https://martijnbartelson.github.io/homework-pizza-configurator/pizza
 
-#Technologies used:
+## Technologies used:
 -React
 -Redux
 -Styled components
 
 
-#Pizza Configurator Homework
+## Pizza Configurator Homework
 
 Note: we’ll use the results of this homework assignment for a formal evaluation and as such you should write the code individually. Plagiarism is a violation of the Academy contract and makes nobody happy.
 Intro
@@ -56,7 +56,7 @@ Last but not least, you can choose turbo-drone-delivery which is an additional 1
 
 Make sure you can change previous steps even if you already changed stuff before. So I could pick a base, a sauce and a topping and switch the base after that.
 
-# Additional instructions:
+## Additional instructions:
 
    If any base is picked there should always be a price shown for the total pizza.
    The Redux store should contain the state of the pizza
