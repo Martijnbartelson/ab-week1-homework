@@ -1,6 +1,6 @@
 # Codaisseur homework assignment
 
-During the weekend we had to build a pizza explorer
+During the weekend we had to build a pizza explorer with React and Redux.
 
 ![Screenshot](pizza.png)
 
