@@ -2,7 +2,7 @@
 
 During the weekend we had to build a pizza explorer
 
-![alt text](https://imgur.com/a/NG45E0V)
+![Screenshot](pizza.png)
 
 Live version: https://martijnbartelson.github.io/homework-pizza-configurator/pizza
 
